@@ -779,7 +779,7 @@ print $boxlist;
 
 print '</div>';
 
-//print 'mem='.memory_get_usage().' - '.memory_get_peak_usage();
+//print 'mem='.memory_get_usage().' - '.memory_get_peak_usage(); serge
 
 // End of page
 llxFooter();
